@@ -20,3 +20,4 @@ function salarioLiquido(valorHora, quantidadeHoras) {
     console.log('Seu salário, com impostos descontados é: R$'+ salarioFinal)
 }
 salarioLiquido(12,136)
+
